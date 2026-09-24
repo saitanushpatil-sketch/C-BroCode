@@ -15,6 +15,16 @@ My journey learning C programming and Data Structures & Algorithms.
 - Increment operator
 - Assignment operators
 
-## Goal
+### Day 2 — Input, Strings & Math
+- Taking user input using `scanf()`
+- Using `fgets()` for string input
+- String handling using `strlen()`
+- Basic input and output programs
+- Mathematical functions in C
+- Practice programs using these concepts
 
-Build a strong foundation in C and gradually move into DSA and LeetCode.
+## Goals
+- Build strong C programming fundamentals
+- Learn Data Structures & Algorithms
+- Solve LeetCode problems
+- Maintain a consistent coding and GitHub contribution habit
