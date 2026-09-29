@@ -23,6 +23,8 @@ My journey learning C programming and Data Structures & Algorithms.
 - Mathematical functions in C
 - Practice programs using these concepts
 
+### DAY 3-BUILT CIRCLE CALCULATOR AND COMPOUND INTEREST CALCULATOR USING C 
+
 ## Goals
 - Build strong C programming fundamentals
 - Learn Data Structures & Algorithms
